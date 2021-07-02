@@ -2,7 +2,7 @@
 
 O que o projeto precisa fazer ?
 - Listar as anotações
-- Pegar inforamções de UMA anotação
+- Pegar informações de UMA anotação
 - Inserir uma anotação
 - Atualizar uma anotação
 - Deletar uma anotação
